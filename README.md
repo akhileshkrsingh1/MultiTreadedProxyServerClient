@@ -12,7 +12,7 @@ This project is implemented using `C` and Parsing of HTTP referred from <a href 
 
 ## Project Theory
 
-[[Back to top]](https://github.com/Akhileshkumarsingh21221/MultiThreadedProxyServerClient#index)
+[[Back to top]]((https://github.com/akhileshkrsingh1/MultiTreadedProxyServerClient/edit/main/README.md))
 
 ##### Introduction
 
