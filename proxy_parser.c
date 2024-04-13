@@ -1,6 +1,7 @@
 /*
   proxy_parse.c -- a HTTP Request Parsing Library.
-  COS 461  
+  By- AKHILESH KUMAR SINGH
+  FOR - Computer Networks
 */
 
 #include "proxy_parse.h"
