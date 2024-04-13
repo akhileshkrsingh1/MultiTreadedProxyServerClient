@@ -1,8 +1,8 @@
 /*
  * proxy_parse.h -- a HTTP Request Parsing Library.
  *
- * Written by: Matvey Arye
- * For: COS 518 
+ * Written by: Akhilesh Kumar Singh
+ * For:computer networks project
  * 
  */
 
