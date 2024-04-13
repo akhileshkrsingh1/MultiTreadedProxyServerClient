@@ -78,7 +78,7 @@ $ ./proxy <port no.>
 
 ## Contributing
 
-[[Back to top]](https://github.com/akhileshkrsingh1/MultiTreadedProxyServerClient#project-theory)
+[[Back to top]](https://github.com/akhileshkrsingh1/MultiTreadedProxyServerClient)
 
 Feel free to add some useful. You can see `How this code can be extended`. Use ideas from there and feel free to fork and CHANGE. 
 
