@@ -1,5 +1,6 @@
 <h1>Multi Threaded Proxy Server with and without Cache</h1>
-This project involves developing a multi-threaded proxy server that handles client requests by forwarding them to destination servers. It caches frequently requested responses to improve performance and reduce server load. The proxy server operates in two modes: with cache, where it retrieves data from memory, and without cache, where it forwards all requests.
+This project involves developing a multi-threaded proxy server that handles client requests by forwarding them to destination servers. It caches frequently requested responses
+to improve performance and reduce server load. The proxy server operates in two modes: with cache, where it retrieves data from memory, and without cache, where it forwards all requests.
 
 This project is implemented using `C` and Parsing of HTTP referred from <a href = "https://github.com/vaibhavnaagar/proxy-server"> Proxy Server </a>
 
